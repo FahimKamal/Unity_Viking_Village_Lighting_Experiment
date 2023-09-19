@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: e634b9a75956e6d46aea198804182b8f
+  productGUID: 00000000000000000000000000000000
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -723,7 +723,7 @@ PlayerSettings:
     tvOS: UNITY_POST_PROCESSING_STACK_V2
   additionalCompilerArguments: {}
   platformArchitecture:
-    iPhone: 1
+    iPhone: 2
   scriptingBackend:
     WP8: 2
     WebGL: 1
@@ -757,14 +757,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 3
   m_MobileRenderingPath: 1
-  metroPackageName: Viking Village Lighting Experiment
+  metroPackageName: Viking_Village_Lighting_Experiment
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: Viking Village Lighting Experiment
+  metroApplicationDescription: Viking_Village_Lighting_Experiment
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 1
